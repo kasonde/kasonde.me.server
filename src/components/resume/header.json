@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_resume_headers",
+  "info": {
+    "displayName": "Header",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "contact_number": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "github_username": {
+      "type": "string"
+    },
+    "linkedin_username": {
+      "type": "string"
+    }
+  }
+}

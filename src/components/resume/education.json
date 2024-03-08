@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_resume_educations",
+  "info": {
+    "displayName": "education",
+    "icon": "write"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "date_graduated": {
+      "type": "date"
+    },
+    "qualification": {
+      "type": "string"
+    }
+  }
+}

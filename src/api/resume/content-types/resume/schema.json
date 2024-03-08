@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "resumes",
+  "info": {
+    "singularName": "resume",
+    "pluralName": "resumes",
+    "displayName": "Resume",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "dynamiczone",
+      "components": [
+        "resume.education",
+        "resume.header",
+        "resume.skills",
+        "resume.experience"
+      ]
+    },
+    "internal_title": {
+      "type": "string"
+    }
+  }
+}

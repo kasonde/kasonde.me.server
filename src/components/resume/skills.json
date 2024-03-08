@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_resume_skills",
+  "info": {
+    "displayName": "Skills",
+    "icon": "crown"
+  },
+  "options": {},
+  "attributes": {
+    "category": {
+      "displayName": "SkillCategory",
+      "type": "component",
+      "repeatable": true,
+      "component": "resume.skill-category"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_experience_experience_actions",
+  "info": {
+    "displayName": "ExperienceAction",
+    "icon": "chartPie",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "details": {
+      "type": "blocks"
+    }
+  }
+}
